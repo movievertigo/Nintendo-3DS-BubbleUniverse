@@ -1,0 +1,5 @@
+-gt  # graphics in tile format
+-mR! # no tile reduction
+-p!  # no palette output
+-m!  # no map output
+-gB1 # graphics bit depth
